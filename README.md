@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sereny33/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://sereny33.github.io/blog-preview-card-main/)
+- Solution URL: [Solution URL here](https://github.com/sereny33/blog-preview-card-main)
+- Live Site URL: [Live site URL here](https://sereny33.github.io/blog-preview-card-main/)
 
 ## My process
 
